@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hudson's Game Hub</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #1e1e2f, #111);
+            color: white;
+            font-family: Arial;
+            text-align: center;
+        }
+
+        h1 {
+            color: #00ffcc;
+        }
+
+        .game {
+            margin: 50px auto;
+        }
+
+        iframe {
+            border-radius: 15px;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+<h1>🎮 Hudson's Game Hub 🎮</h1>
+<p>Free Online Games</p>
+
+<div class="game">
+    <h2>Classic Pong</h2>
+    <iframe src="https://itch.io/embed-upload/81838?color=333333" width="800" height="600"></iframe>
+</div>
+
+<div class="game">
+    <h2>Space Shooter</h2>
+    <iframe src="https://itch.io/embed-upload/104722?color=222222" width="800" height="600"></iframe>
+</div>
+
+<div class="game">
+    <h2>Platform Jumper</h2>
+    <iframe src="https://itch.io/embed-upload/67591?color=000000" width="800" height="600"></iframe>
+</div>
+
+</body>
+</html>
